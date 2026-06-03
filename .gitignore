@@ -1,0 +1,22 @@
+# Data files (do not touch/track datasets)
+*.csv
+*.xlsx
+*.xls
+*.zip
+*.tar.gz
+
+# Documents & personal files
+Germany Documents/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python environment / cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+env/
